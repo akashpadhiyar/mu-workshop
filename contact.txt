@@ -1,0 +1,35 @@
+3 Days Workshop :-
+Introduction of Node JS
+Installation 
+VS Code 
+Es6 & JS
+		CallBack
+ 		SetTimeOut
+		SetInterval	
+		ClearTimeout and Interval 
+		Let Const
+		Template Litreal
+		Spread Operator 
+		Rest Parameter
+		Aerow 
+		Promise
+
+Node JS : 
+	Types of Module
+		Core Module	- http	
+		Local Module - modules.export
+		Third Party Module - nodemon
+		package.json npm init
+Express JS
+	Express Generator
+
+Express Website Development : 
+
+Create New Project
+Routing
+Get Post
+Theme 
+DB Connection 
+
+
+
